@@ -74,4 +74,8 @@ python sds.py --server
 
 ## ライセンス
 
-このプロジェクトのライセンスについては、LICENSEファイルを参照してください。
+- 本ソフトウェアは GNU General Public License v3.0 もしくは（あなたの選択で）それ以降のバージョンの下で配布されています。
+- SPDX-License-Identifier: GPL-3.0-or-later
+- Copyright (C) 2025 SupportDiag contributors
+
+詳細は同梱の LICENSE ファイルをご覧ください。GPLの全文および日本語訳は https://www.gnu.org/licenses/ から参照できます。
